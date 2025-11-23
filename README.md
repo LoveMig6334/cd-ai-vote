@@ -6,14 +6,14 @@
 2. [เทคโนโลยีที่ใช้](#-2-เทคโนโลยีที่ใช้)
 3. [บทบาทผู้ใช้งาน](#-3-บทบาทผู้ใช้งาน)
 4. [ฟีเจอร์หลักของระบบ](#-4-ฟีเจอร์หลักของระบบ)
-5. [โครงสร้างข้อมูล (Data Models)](#-โครงสร้างข้อมูล-data-models)
-6. [API Design](#-api-design)
-7. [ระบบ OCR ถ่ายบัตรนักเรียน](#-ระบบ-ocr-ถ่ายบัตรนักเรียน)
-8. [ระบบโหวต + Token ยืนยัน ผ่านอีเมล](#-ระบบโหวต--token-ยืนยัน-ผ่านอีเมล)
-9. [Security Design](#-security-design)
-10. [UI/UX Guideline](#-uiux-guideline)
-11. [Project Structure](#-project-structure-แนะนำ)
-12. [TODO List สำหรับพัฒนาต่อ](#-todo-list-สำหรับพัฒนาต่อ)
+5. [โครงสร้างข้อมูล (Data Models)](#-5-โครงสร้างข้อมูล-data-models)
+6. [API Design](#-6-api-design)
+7. [ระบบ OCR ถ่ายบัตรนักเรียน](#-7-ระบบ-ocr-ถ่ายบัตรนักเรียน)
+8. [ระบบโหวต + Token ยืนยัน ผ่านอีเมล](#-8-ระบบโหวต--token-ยืนยัน-ผ่านอีเมล)
+9. [Security Design](#-9-security-design)
+10. [UI/UX Guideline](#-10-uiux-guideline)
+11. [Project Structure](#-11-project-structure-แนะนำ)
+12. [TODO List สำหรับพัฒนาต่อ](#-12-todo-list-สำหรับพัฒนาต่อ)
 
 ---
 
